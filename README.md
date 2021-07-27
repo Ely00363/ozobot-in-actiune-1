@@ -1,0 +1,2 @@
+# ozobot-in-actiune-1
+Programul pe calculator este realizat în OzoBlockly  și apoi făcut traseul pe hârtie, cu un marker de culoare neagră, astfel încât să meargă doar la cifrele pare. Am folosit instrucțiunea  repetitivă pentru deplasarea ozobotului  de la un număr la altul, așteptând o secundă când ajunge la cifrele pare iar apoi  întorcându-se la linia inițială și mergând mai departe. Va pleca de la start și se va  opri la cifra 16 care reprezintă  finish-ul, având o viteză medie.  
